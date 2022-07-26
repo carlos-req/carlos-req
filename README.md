@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at [Work in Progress](https://carlos-req.github.io/CarlosRequena.io/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://carlos-req.github.io/CarlosRequena.io/)
 
 - 📝 I regularly write articles on [Work in Progress](N/A)
 
