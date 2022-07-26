@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fitness Macro Calculator**
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any projects**
 
