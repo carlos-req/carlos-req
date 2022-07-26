@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/carlosreq11" target="blank"><img src="https://img.shields.io/twitter/follow/carlosreq11?logo=twitter&style=for-the-badge" alt="carlosreq11" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Fitness Macro Calculator**
 
 - 🌱 I’m currently learning **Javascript & React**
 
