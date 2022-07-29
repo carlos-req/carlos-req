@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://carlos-req.github.io/CarlosRequena.io/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://carlosjrequena.com/)
 
-- 📝 I regularly write articles on [Work in Progress](N/A)
-
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **cjrequena11@gmail.com**
 
