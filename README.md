@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/carlosreq11" target="blank"><img src="https://img.shields.io/twitter/follow/carlosreq11?logo=twitter&style=for-the-badge" alt="carlosreq11" /></a> </p>
 
-- 🔭 I’m currently working on **Fitness Macro Calculator**
+- 🔭 I’m currently working on **Titan-Community-Bank*
 
 - 🌱 I’m currently learning **React**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://carlosjrequena.com/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **cjrequena11@gmail.com**
 
