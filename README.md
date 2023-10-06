@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/carlosreq11" target="blank"><img src="https://img.shields.io/twitter/follow/carlosreq11?logo=twitter&style=for-the-badge" alt="carlosreq11" /></a> </p>
 
-- 🔭 I’m currently working on *TC Bank*
+- 🔭 I’m currently working on *New Projects*
 
-- 🌱 I’m currently learning **Next.JS**
-
-- 👯 I’m looking to collaborate on **any Hackathons or Startups**
+- 👯 I’m looking to collaborate on **any Hackathons/Projects/Startups**
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://carlosjrequena.com/)
 
