@@ -15,7 +15,7 @@ I'm currently working as a frontend developer in Florida, where my journey invol
 
 ## ✨ Fun Facts 
 
-- seven deadly sins is my favorite anime.
+- Seven deadly sins is my favorite anime.
 - I could probably eat wings everyday
 - I use Bearded Theme Stained Blue as my vscode theme
 
