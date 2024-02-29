@@ -1,13 +1,13 @@
 ### Hey, I'm Carlos 👋 
 
-I'm a 23-year-old developer based in Tampa Fl, and I'm passionate about crafting digital experiences. 
+I'm a 23-year-old Full Stack developer based in Tampa Fl, and I'm passionate about crafting digital experiences. 
 
 - Check out my [website](https://carlosjrequena.com/) to learn more about me.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/carlosjrequena/)
 
 ## 🔭 Current Endeavors 
 
-I'm currently working as a frontend developer in Florida, where my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently working as a frontend developer in the Fintech Industry, where my journey involves both building and learning. Here's what I'm currently focused on:
 
 - I'm engaged in exciting fullstack projects.
 - I'm exploring typescript to enhance my skill set.
